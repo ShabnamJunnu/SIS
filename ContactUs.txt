@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy</title>
+</head>
+  <body>
  Contact Us :
 
  - If you have any questions or concerns about this Privacy Policy or how we handle your personal information,
@@ -8,3 +16,5 @@ Phone: 9842311137,
                  9597621104.
 
 We are here to assist you!
+ </body>
+</html>

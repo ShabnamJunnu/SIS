@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy</title>
+</head>
+  <body>
  Terms And Conditions :
 
  1. We welcome individuals from all professional backgrounds to join our organization, including :
@@ -13,7 +21,8 @@
  - Actively participate in community service
  - Contribute meaningfully to social welfare initiatives
 
-
+</body>
+</html>
 
 
 

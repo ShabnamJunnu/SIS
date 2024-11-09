@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Policy</title>
+</head>
+  <body>
  Refund and Return Policy :
 
  1. At Social Improvement Society, we operate as a non-profit organization, focused solely on community service and  social welfare initiatives. 
@@ -9,3 +17,5 @@
 
  -Membership Fees : 
 	Membership fees, if applicable, are directed towards sustaining our programs and initiatives. As  such, these fees are non-refundable.
+</body>
+</html>
